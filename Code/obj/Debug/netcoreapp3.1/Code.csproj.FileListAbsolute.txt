@@ -1,0 +1,11 @@
+C:\Keystone\AUTOCAD\Plug Ins\Code\bin\Debug\netcoreapp3.1\Code.exe
+C:\Keystone\AUTOCAD\Plug Ins\Code\bin\Debug\netcoreapp3.1\Code.deps.json
+C:\Keystone\AUTOCAD\Plug Ins\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.json
+C:\Keystone\AUTOCAD\Plug Ins\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.dev.json
+C:\Keystone\AUTOCAD\Plug Ins\Code\bin\Debug\netcoreapp3.1\Code.dll
+C:\Keystone\AUTOCAD\Plug Ins\Code\bin\Debug\netcoreapp3.1\Code.pdb
+C:\Keystone\AUTOCAD\Plug Ins\Code\obj\Debug\netcoreapp3.1\Code.csprojAssemblyReference.cache
+C:\Keystone\AUTOCAD\Plug Ins\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfoInputs.cache
+C:\Keystone\AUTOCAD\Plug Ins\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfo.cs
+C:\Keystone\AUTOCAD\Plug Ins\Code\obj\Debug\netcoreapp3.1\Code.dll
+C:\Keystone\AUTOCAD\Plug Ins\Code\obj\Debug\netcoreapp3.1\Code.pdb
