@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="3.0.0" />
+    <Reference Include="accoremgd">
+      <HintPath>..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2020\accoremgd.dll</HintPath>
+      <Aliases>global</Aliases>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Acdbmgd">
+      <HintPath>..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2020\acdbmgd.dll</HintPath>
+      <Aliases>global</Aliases>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Acmgd">
+      <HintPath>..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2020\acmgd.dll</HintPath>
+      <Aliases>global</Aliases>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>..\..\..\..\..\..\Windows\WinSxS\amd64_netfx4-system.windows.forms_b03f5f7f11d50a3a_4.0.15788.297_none_ff333bb0eafcf234\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsFormsKeystonePlug">
+      <HintPath>..\..\WindowsFormsKeystonePlug\WindowsFormsKeystonePlug\bin\Debug\WindowsFormsKeystonePlug.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

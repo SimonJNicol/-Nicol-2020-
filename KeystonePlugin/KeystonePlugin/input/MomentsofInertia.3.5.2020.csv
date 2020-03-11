@@ -1,0 +1,165 @@
+﻿Cut Type,Nominal Size,Moment of Inertia (in^4)
+Dimensional Lumbar,2x4,0.984
+Dimensional Lumbar,2x6,1.547
+Dimensional Lumbar,2x8,2.039
+Dimensional Lumbar,2x10,2.602
+Dimensional Lumbar,2x12,3.164
+Dimensional Lumbar,2x14,3.727
+Dimensional Lumbar,4x4,16.08
+Dimensional Lumbar,4x6,19.65
+Dimensional Lumbar,4x8,25.9
+Dimensional Lumbar,4x10,33.05
+Dimensional Lumbar,4x12,40.2
+Dimensional Lumbar,4x14,47.34
+Dimensional Lumbar,4x16,54.59
+Timbers,5x5,34.17
+Timbers,6x6,76.26
+Timbers,6x8,104
+Timbers,8x8,263.7
+Timbers,8x10,334
+Timbers,10x10,678.8
+Timbers,10x12,821.7
+Timbers,12x12,1458
+Timbers,12x14,1711
+Timbers,14x14,2768
+Timbers,14x16,3178
+Timbers,16x16,4810
+Timbers,16x18,5431
+Timbers,18x18,7816
+Timbers,18x20,8709
+Timbers,20x20,12049
+Timbers,20x22,13285
+Timbers,22x22,17806
+Timbers,22x24,19463
+Timbers,24x24,25415
+Beams and Stringers,6x10,131.7
+Beams and Stringers,6x12,159.4
+Beams and Stringers,6x14,187.2
+Beams and Stringers,6x16,214.9
+Beams and Stringers,6x18,242.6
+Beams and Stringers,6x20,270.4
+Beams and Stringers,6x22,298.1
+Beams and Stringers,6x24,325.8
+Beams and Stringers,8x12,404.3
+Beams and Stringers,8x14,474.6
+Beams and Stringers,8x16,544.9
+Beams and Stringers,8x18,615.2
+Beams and Stringers,8x20,685.5
+Beams and Stringers,8x22,755.9
+Beams and Stringers,8x24,826.2
+Beams and Stringers,10x14,964.5
+Beams and Stringers,10x16,1107
+Beams and Stringers,10x18,1250
+Beams and Stringers,10x20,1393
+Beams and Stringers,10x22,1536
+Beams and Stringers,10x24,1679
+Beams and Stringers,12x16,1964
+Beams and Stringers,12x18,2218
+Beams and Stringers,12x20,2471
+Beams and Stringers,12x22,2725
+Beams and Stringers,12x24,2978
+Beams and Stringers,14x18,3588
+Beams and Stringers,14x20,3998
+Beams and Stringers,14x22,4408
+Beams and Stringers,14x24,4818
+Beams and Stringers,16x20,6051
+Beams and Stringers,16x22,6672
+Beams and Stringers,16x24,7293
+Beams and Stringers,18x22,9602
+Beams and Stringers,18x24,10495
+Beams and Stringers,20x24,14521
+Glulams,6x2.5,7.813
+Glulams,7.5x2.5,9.766
+Glulams,9x2.5,11.72
+Glulams,10.5x2.5,13.67
+Glulams,12x2.5,15.63
+Glulams,13.5x2.5,17.58
+Glulams,15x2.5,19.53
+Glulams,16.5x2.5,21.48
+Glulams,18x2.5,23.44
+Glulams,19.5x2.5,25.39
+Glulams,21x2.5,27.34
+Glulams,6x3.125,15.26
+Glulams,7.5x3.125,19.07
+Glulams,9x3.125,22.89
+Glulams,10.5x3.125,26.7
+Glulams,12x3.125,30.52
+Glulams,13.5x3.125,34.33
+Glulams,15x3.125,38.15
+Glulams,16.5x3.125,41.96
+Glulams,18x3.125,45.78
+Glulams,19.5x3.125,49.59
+Glulams,21x3.125,53.41
+Glulams,22.5x3.125,57.22
+Glulams,24x3.125,61.04
+Glulams,6x3.5,21.44
+Glulams,7.5x3.5,26.8
+Glulams,9x3.5,32.16
+Glulams,9.25x3.5,33.05
+Glulams,9.5x3.5,33.94
+Glulams,10.5x3.5,37.52
+Glulams,11.25x3.5,40.2
+Glulams,11.875x3.5,42.43
+Glulams,12x3.5,42.88
+Glulams,13.5x3.5,48.23
+Glulams,14x3.5,50.02
+Glulams,15x3.5,53.59
+Glulams,16x3.5,57.17
+Glulams,16.5x3.5,58.95
+Glulams,18x3.5,64.31
+Glulams,19.5x3.5,69.67
+Glulams,20x3.5,71.46
+Glulams,21x3.5,75.03
+Glulams,22x3.5,78.6
+Glulams,22.5x3.5,80.39
+Glulams,24x3.5,85.75
+Glulams,6x5.125,67.31
+Glulams,7.5x5.125,84.13
+Glulams,9x5.125,101
+Glulams,10.5x5.125,117.8
+Glulams,12x5.125,134.6
+Glulams,13.5x5.125,151.4
+Glulams,15x5.125,168.3
+Glulams,16.5x5.125,185.1
+Glulams,18x5.125,201.9
+Glulams,19.5x5.125,218.7
+Glulams,21x5.125,235.6
+Glulams,22.5x5.125,252.4
+Glulams,24x5.125,269.2
+Glulams,25.5x5.125,286
+Glulams,27x5.125,302.9
+Glulams,28.5x5.125,319.7
+Glulams,30x5.125,336.5
+Glulams,31.5x5.125,353.4
+Glulams,33x5.125,370.2
+Glulams,34.5x5.125,387
+Glulams,36x5.125,403.8
+Glulams,6x5.5,83.19
+Glulams,7.5x5.5,104
+Glulams,9x5.5,124.8
+Glulams,9.25x5.5,128.2
+Glulams,9.5x5.5,131.7
+Glulams,10.5x5.5,145.6
+Glulams,11.25x5.5,156
+Glulams,11.875x5.5,164.6
+Glulams,12x5.5,166.4
+Glulams,13.5x5.5,187.2
+Glulams,14x5.5,194.1
+Glulams,15x5.5,208
+Glulams,16x5.5,221.8
+Glulams,16.5x5.5,228.8
+Glulams,18x5.5,249.6
+Glulams,19.5x5.5,270.4
+Glulams,20x5.5,277.3
+Glulams,21x5.5,291.2
+Glulams,22x5.5,305
+Glulams,22.5x5.5,312
+Glulams,24x5.5,332.8
+Glulams,25.5x5.5,353.5
+Glulams,27x5.5,374.3
+Glulams,28.5x5.5,395.1
+Glulams,30x5.5,415.9
+Glulams,31.5x5.5,436.7
+Glulams,33x5.5,457.5
+Glulams,34.5x5.5,478.3
+Glulams,36x5.5,499.1
